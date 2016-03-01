@@ -47,6 +47,7 @@
   text-decoration: underline;
 }
 #news-feed .label {
+  line-height: 2.2;
   margin: 0 6px 0 0;
   vertical-align: top;
   border: 1px solid rgb(203, 203, 203);
